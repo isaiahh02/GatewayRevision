@@ -1,0 +1,116 @@
+
+.topnav {
+    background-color: #333;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    height: 30px;
+    text-align: center;
+    padding: 1em 1.5em; 
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+  }
+  
+  .btn1 {
+    padding-top: 15%;
+    position: relative;
+    top: -104px;
+    top: -20px;
+    padding: 10px 10px; 
+    display: block;
+    border-radius: 100%;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .btn2 {
+    padding-top: 15%;
+    position: relative;
+    top: -104px;
+    top: -20px;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  
+  a:link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  .nav-area li {
+    display: inline-block;
+    list-style-type: none;
+    margin-top: 30px;
+    padding-right: 175px;
+  }
+    
+  body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background-image: url('AF7957DF-15F6-445D-8B9E-7336F64E9957_1_105_c.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    
+  }
+  h1 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .container {
+    background-color: #667;
+    max-width: 400px;
+    height: 300px;
+    margin: 25px auto;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(72,98,85, 0.6);
+    padding: 40px  
+    
+  
+  }
+  
+  .container p {
+    text-align: center;
+    font-size: 25px;
+    /*margin-bottom: 20px*/
+    font-family: 'Poppins', sans-serif;
+    color: white;
+  }
+  
+  p {
+    text-align: center;
+    letter-spacing: 0px;
+    font-size: 65px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+  
+  }
+  
+  footer {
+    background-color: blue;
+    color: white;
+    width: 100%;
+    margin-left: -1%;
+    margin-right: 80%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+  }
+  
+  

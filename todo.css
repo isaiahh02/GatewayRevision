@@ -1,0 +1,87 @@
+/* css page for to do page */
+
+body {
+  background-image: url('612191C0-E367-41D2-9502-C447B7A26E64_1_105_c.jpeg'); 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+
+.topnav {
+    background-color: #333;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+    /* padding: 1em 1.5em; */
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+   }
+  
+    .btn1 {
+    padding: 10px 10px;
+    display: block;
+    background-color: transparent;
+    border-radius: 100%;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+    .btn3 {
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  a:link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  } 
+    
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+  }
+  .paragraph1 {
+    font-family: 'Poppins',sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(0,0,0,.5);
+  }
+  
+  .paragraph2 {
+    font-family: 'Poppins',sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(0,0,0,.5);
+  }
+
+  .paragraph3 {
+      font-family: 'Poppins',sans-serif;
+      font-size: 20px;
+      color: white;
+      background-color: rgba(0,0,0,.5);
+  }
+
+  .paragraph4 {
+      color: white;
+      background-color: blue;
+  }
+
+  footer {
+    background-color: blue;
+    color: white;
+    width: 100%;
+    margin-left: -1%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+  }
